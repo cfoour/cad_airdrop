@@ -1,0 +1,17 @@
+{
+  "error": {
+    "no_cops": "Not enough cops",
+    "pilot_crashed": "The plane has crashed delivery failed"
+  },
+
+  "info": {
+    "item_recieved": "You opened the crate and received"
+  },
+
+  "success": {
+    "contacted_mafia": "You Have Contacted The Mocro Mafia",
+    "pilot_contact": "After few minutes pilot will contact you",
+    "crate_dropping": "Pilot: keep the eye on sky the crate is dropping",
+    "pilot_dropping_soon": "Pilot: We are preparing the crate with the plane and will be dropping it soon"
+  }
+}
