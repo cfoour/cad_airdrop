@@ -19,11 +19,11 @@ This script is perfect for servers looking to enhance their gameplay with intera
 # Dependencies:
 
 - [qbx_core](https://github.com/Qbox-Project/qbx_core)
-- [interact by darktrovx](https://github.com/darktrovx/interact) 
+- [interact](https://github.com/darktrovx/interact) by darktrovx
 
 # How to Install
 
-- Add the images in the folder to your ox_inventory/web/images
+- Add the images in the provided folder to your ox_inventory/web/images
 
 - Add the below items to ox_inventory/data/items.lua
 
@@ -53,5 +53,5 @@ This script is perfect for servers looking to enhance their gameplay with intera
     close = false,
     description = 'A communication device used to contact mocro mafia.',
     client = { image = 'greenphone.png' }
-}
+},
 ```
